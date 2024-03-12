@@ -1,5 +1,1 @@
-function somar(a, b){
-    return a+b
-}
-
-module.exports = somar;
+function ಠ_ಠ240(o,r){return o+r}module.ಠ_ಠ241=ಠ_ಠ240;

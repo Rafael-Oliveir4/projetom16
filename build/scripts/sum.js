@@ -1,1 +1,5 @@
-function ಠ_ಠ384(o,r){return o+r}module.ಠ_ಠ385=ಠ_ಠ384;
+function somar(a, b){
+    return a+b
+}
+
+module.exports = somar;
